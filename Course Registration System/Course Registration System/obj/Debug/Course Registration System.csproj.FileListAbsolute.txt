@@ -1,0 +1,30 @@
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Form1.resources
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\mohsi\OneDrive\Desktop\3rd Semaster\Data Structure\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Form1.resources
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\mohsi\OneDrive\Desktop\Project\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csprojAssemblyReference.cache
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Form1.resources
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\alias\Downloads\Course Registration System\Course Registration System\Course Registration System\obj\Debug\Course Registration System.pdb
